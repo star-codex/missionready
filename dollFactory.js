@@ -51,3 +51,9 @@ doll.arms = new DollPartsFactory('arms', dollProps);
 doll.legs = new DollPartsFactory('legs', dollProps);
 
 console.log(doll);
+// {
+//   head: HeadFactory { hairColour: 'brown' },
+//   torso: TorsoFactory { clothing: 'dress' },
+//   arms: ArmsFactory { accessory: 'bracelet' },
+//   legs: LegsFactory { shoes: 'boots' }
+// }
