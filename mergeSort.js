@@ -36,4 +36,7 @@ function merge(leftArr, rightArr) {
 }
 
 const arr = [857, 431, 940, 151, 733, 453, 86, 60, 909, 890];
-console.log(mergeSort(arr));
+console.log(mergeSort(arr)); // [60,  86, 151, 431, 453, 733, 857, 890, 909, 940]
+
+// external link
+// https://replit.com/@star-codex/missionready#mergeSort.js
